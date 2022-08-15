@@ -6,13 +6,12 @@ Foram realizados testes manuais e automatizados utilizando o Selenium Web Driver
 
 Após clonar o projeto, segue os passos a serem seguidos para rodar o teste automatizado:
 
-1) Caso não tenha, instale o navegador Firefox
+1) Caso não tenha, [instale](https://www.mozilla.org/pt-BR/firefox/new/) o navegador Firefox
 
 2) Instale a biblioteca GeckoDriver. Será necessário fazer o download da versão referente à sua máquina no repositório: https://github.com/mozilla/geckodriver/releases
-3) Com o GeckoDriver baixado, extrair dentro da pasta “C:\Windows”.   
+3) Com o GeckoDriver baixado, faça a extração do arquivo dentro da pasta “C:\Windows”.   
  
-    Porque dentro da pasta Windows?    
-    Porque a pasta Windows está configurado por padrão no PATH.
+    <b>Porque dentro da pasta Windows?</b> Porque a pasta Windows está configurado por padrão no PATH.
     
 4) Acrescente ao arquivo pom.xml, o seguinte código:
 ```java
@@ -34,4 +33,4 @@ Após clonar o projeto, segue os passos a serem seguidos para rodar o teste auto
 ```
 
 
-5) Caso queira ir direto para a classe onde os testes foram criados vá para: src/main/java/testeSenseData.java ou clique [aqui](https://github.com/anacgsantana/QA_SenseData/blob/main/src/main/java/testeSenseData.java) !
+5) Caso queira ir direto para a classe onde os testes foram criados, vá para: src/main/java/testeSenseData.java ou clique [aqui](https://github.com/anacgsantana/QA_SenseData/blob/main/src/main/java/testeSenseData.java) !
