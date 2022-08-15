@@ -4,7 +4,7 @@
 Desafio que propôs a criação de testes para verificar o desempenho de um e-commerce.
 Foram realizados testes manuais e automatizados utilizando o Selenium Web Driver com Java. 
 
-Passos para rodar o teste automatizado:
+Após clonar o projeto, segue os passos a serem seguidos para rodar o teste automatizado:
 
 1) Caso não tenha, instale o navegador Firefox
 
@@ -32,3 +32,6 @@ Passos para rodar o teste automatizado:
     </dependencies>
 
 ```
+
+
+5) Caso queira ir direto para a classe onde os testes foram criados vá para: src/main/java/testeSenseData.java ou clique [aqui](https://github.com/anacgsantana/QA_SenseData/blob/main/src/main/java/testeSenseData.java) !
