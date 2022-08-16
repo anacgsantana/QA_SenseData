@@ -33,4 +33,4 @@ Após clonar o projeto, segue os passos a serem seguidos para rodar o teste auto
 ```
 
 
-5) Caso queira ir direto para a classe onde os testes foram criados, vá para: src/main/java/testeSenseData.java ou clique [aqui](https://github.com/anacgsantana/QA_SenseData/blob/main/src/main/java/testeSenseData.java) !
+5) Caso queira ir direto para a classe onde os testes foram criados, clique [aqui](https://github.com/anacgsantana/QA_SenseData/blob/main/src/main/java/testeSenseData.java) !
